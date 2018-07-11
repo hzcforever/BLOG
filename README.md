@@ -2,5 +2,5 @@
 
 ---
 
-&#160;&#160;&#160;&#160;详见[Blog](https://blackwaters.github.io/ "Blog")
+&#160;&#160;&#160;&#160;详见[Blog](https://hzcforever.github.io/ "Blog")
 
